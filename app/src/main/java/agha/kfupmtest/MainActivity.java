@@ -11,13 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public static void main (String [] args){
-        //change
-        // change 2
+    public static String main (String [] args){
+       
     }
 
-    // change 1
-    // change 2344
-    // from rami
-    // from rami 2
 }
