@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static void main (String [] args){
         //change
-        // change2
+        // change 2
     }
 
     // change 1
